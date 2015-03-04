@@ -74,6 +74,7 @@
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 			</Item>
 			<Item Name="SpaceVector.lvclass" Type="LVClass" URL="../../../../../../HelioScan/common/classes/SpaceVector/SpaceVector/SpaceVector.lvclass"/>
+			<Item Name="visarc" Type="Document" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2010/resource/visarc"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
